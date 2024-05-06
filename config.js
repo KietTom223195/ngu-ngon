@@ -3,7 +3,7 @@ const nameGirl = 'Bạn';
 const giftUrl = 'http://https://www.facebook.com/n.leen1209';
 const eventName = 'Mở Ra';
 const titleCard = 'Mở Ra Đi';
-const contentCard = 'Ngủ Ngon Và Ngủ Sớm Đi';
+const contentCard = 'Ngủ Ngon Và Ngủ Sớm Đi Và Nói Nhỏ Lại Xíu';
 
 const giftImage = 'hot-girl.png';
 const base64 = '';
